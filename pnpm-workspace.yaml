@@ -1,0 +1,3 @@
+# Permite ejecutar el script de instalación de esbuild (lo usa Vite).
+allowBuilds:
+  esbuild: true
