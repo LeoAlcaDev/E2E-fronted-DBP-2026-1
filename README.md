@@ -1,18 +1,3 @@
-# UberFake — Frontend
-
-Frontend web para el backend tipo Uber del curso (CS2031 DBP). Es una aplicación de una sola página hecha en React que consume los 12 endpoints del backend y cubre las 7 pantallas de la rúbrica.
-
-Está construido con Vite, React, TypeScript, TailwindCSS v4, React Router y Axios. La sesión del usuario se maneja con Context API.
-
-## Requisitos
-
-Antes de abrir el frontend, el backend tiene que estar corriendo en `http://localhost:8080`. Desde la carpeta del backend (`cs2031-2026-1-week14-e2e-2`):
-
-```bash
-./mvnw spring-boot:run
-```
-
-El backend usa una base de datos en memoria, así que cada vez que se reinicia vuelve a cargar los usuarios y viajes de prueba.
 
 ## Cómo levantar el frontend
 
