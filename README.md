@@ -1,20 +1,4 @@
 
-## Cómo levantar el frontend
-
-Desde esta carpeta:
-
-```bash
-pnpm install
-pnpm dev
-```
-
-La aplicación queda disponible en `http://localhost:5173`. El backend ya acepta peticiones desde cualquier origen, así que no hay que configurar nada más.
-
-Para comprobar que el proyecto compila sin errores de tipos:
-
-```bash
-pnpm build
-```
 
 ## Usuarios de prueba
 
